@@ -74,11 +74,6 @@ for i in range(0, len(test_words)):
 # check it out
     answers.append(USER_INP)  
  
-    
-'''
-ERROR, answers has length 9 only!
-plus score always returns 90%
-'''
 
 score=0
 for l in range(0, len(test_words)):
